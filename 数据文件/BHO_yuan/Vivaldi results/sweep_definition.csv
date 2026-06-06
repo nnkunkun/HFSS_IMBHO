@@ -1,0 +1,7 @@
+Parameter,Nominal_cm,Min_cm,Max_cm
+Wslot,0.02,0.01,0.04
+Wtaper,1.87,1.68,2.06
+Ltapper,3.75,3.38,4.12
+Wbalun,0.35,0.28,0.42
+Wstrip,0.1328,0.115,0.155
+Lstrip_offset,0.35,0.25,0.45
