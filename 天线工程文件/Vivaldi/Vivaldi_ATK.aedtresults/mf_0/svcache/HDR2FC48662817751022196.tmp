@@ -1,0 +1,71 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=3
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='St11'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='St(Stripline_T1,Stripline_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=13
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=14
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=31
+						$begin 'MinorVVMap'
+							MajorVariation='feed_offset=\'0cm\' Freq=\'8GHz\' Lbalun=\'0.34999999999999998cm\' Lfeed=\'0cm\' Lstrip=\'0.5cm\' Lstrip_offset=\'0.34999999999999998cm\' Ltapper=\'3.75cm\' NumberOfPoints=\'20\' subH=\'0.1575cm\' subX=\'3.75cm\' subY=\'4.5999999999999996cm\' Wbalun=\'0.34999999999999998cm\' Wslot=\'0.02cm\' Wstrip=\'0.1328cm\' Wtaper=\'1.8700000000000001cm\''
+							MinorCacheFile='min3F1D866281775103422615.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=20
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=1
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=100
+						$begin 'MinorVVMap'
+							MajorVariation='feed_offset=\'0cm\' Lbalun=\'0.34999999999999998cm\' Lfeed=\'0cm\' Lstrip=\'0.5cm\' Lstrip_offset=\'0.34999999999999998cm\' Ltapper=\'3.75cm\' NumberOfPoints=\'20\' subH=\'0.1575cm\' subX=\'3.75cm\' subY=\'4.5999999999999996cm\' Wbalun=\'0.34999999999999998cm\' Wslot=\'0.02cm\' Wstrip=\'0.1328cm\' Wtaper=\'1.8700000000000001cm\''
+							MinorCacheFile='min3F1D866281775103422616.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

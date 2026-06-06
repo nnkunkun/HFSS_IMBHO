@@ -1,0 +1,50 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=2
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='St(Stripline_T1,Stripline_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=9
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=13
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=14
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=20
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=1
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=122
+						$begin 'MinorVVMap'
+							MajorVariation='feed_offset=\'0cm\' Lbalun=\'0.34999999999999998cm\' Lfeed=\'0cm\' Lstrip=\'0.5cm\' Lstrip_offset=\'0.36299999999999999cm\' Ltapper=\'4.101cm\' NumberOfPoints=\'20\' subH=\'0.1575cm\' subX=\'3.75cm\' subY=\'4.5999999999999996cm\' Wbalun=\'0.35499999999999998cm\' Wslot=\'0.039800000000000002cm\' Wstrip=\'0.14899999999999999cm\' Wtaper=\'1.956cm\''
+							MinorCacheFile='min7A6F115112177651288341.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'
