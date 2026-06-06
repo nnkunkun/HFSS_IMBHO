@@ -1,0 +1,105 @@
+$begin 'DesignData'
+	Version=242
+	$begin 'PartsInfo'
+		Part(6, true, 'arm1', false, 'pec', 3, 9, 8, 7, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 255, 128, 65, false)
+		Part(16, true, 'arm1_1', false, 'pec', 3, 19, 18, 17, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 255, 128, 65, false)
+		Part(23, false, 'port1', true, 'vacuum', 1, 33, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 128, 0, 0, false)
+		Part(35, true, 'RadiatingSurface', true, 'vacuum', 6, 36, 38, 39, 40, 37, 41, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 255, 0, 0, false)
+	$end 'PartsInfo'
+	$begin 'FacesInfo'
+		Face(7, 6, 0.00112385, 3.09133, false, 0, 0, 0, -10, -10, -10, 0)
+		Face(8, 6, 1.90117e-05, 1.54566, true, 1.04422e-16, 4.75387e-33, 0.173, -0, -0, -1, 0)
+		Face(9, 6, 1.90117e-05, 1.54566, true, 0, 2.37694e-33, 7.444, 0, 0, 1, 0)
+		Face(17, 16, 0.00112385, 3.09133, false, 0, 0, 0, -10, -10, -10, 0)
+		Face(18, 16, 1.90117e-05, 1.54566, true, 1.04422e-16, -2.11864e-17, -0.173, -0, 1.22465e-16, 1, 0)
+		Face(19, 16, 1.90117e-05, 1.54566, true, 0, -9.11627e-16, -7.444, 0, -1.22465e-16, -1, 0)
+		Face(33, 23, 1.70232e-05, 1.676, true, 4.28837e-17, -2.79511e-17, 4.52201e-17, 1, -6.12323e-17, -1.60812e-16, 4, 0, -0.00246, -0.00173, 3.01263e-19, 0.00246, -0.00173, 8.57674e-19, 0.00246, 0.00173, 5.5641e-19, -0.00246, 0.00173)
+		Face(36, 35, 0.0515936, 90.8569, true, 0, 0, 18.5551, 0, 0, 1, 4, 0.113571, -0.113571, 0.185551, 0.113571, 0.113571, 0.185551, -0.113571, 0.113571, 0.185551, -0.113571, -0.113571, 0.185551)
+		Face(37, 35, 0.0515936, 90.8569, true, 0, 0, -18.5551, -0, -0, -1, 4, 0.113571, -0.113571, -0.185551, -0.113571, -0.113571, -0.185551, -0.113571, 0.113571, -0.185551, 0.113571, 0.113571, -0.185551)
+		Face(38, 35, 0.084293, 119.649, true, 0, -11.3571, -4.11594e-15, -0, -1, -0, 4, 0.113571, -0.113571, 0.185551, -0.113571, -0.113571, 0.185551, -0.113571, -0.113571, -0.185551, 0.113571, -0.113571, -0.185551)
+		Face(39, 35, 0.084293, 119.649, true, -11.3571, 0, 4.11594e-15, -1, -0, -0, 4, -0.113571, -0.113571, 0.185551, -0.113571, 0.113571, 0.185551, -0.113571, 0.113571, -0.185551, -0.113571, -0.113571, -0.185551)
+		Face(40, 35, 0.084293, 119.649, true, 0, 11.3571, 4.11594e-15, 0, 1, 0, 4, -0.113571, 0.113571, 0.185551, 0.113571, 0.113571, 0.185551, 0.113571, 0.113571, -0.185551, -0.113571, 0.113571, -0.185551)
+		Face(41, 35, 0.084293, 119.649, true, 11.3571, 0, -4.11594e-15, 1, 0, 0, 4, 0.113571, 0.113571, -0.185551, 0.113571, 0.113571, 0.185551, 0.113571, -0.113571, 0.185551, 0.113571, -0.113571, -0.185551)
+	$end 'FacesInfo'
+	$begin 'PartAddtionalPiecesInfo'
+		$begin 'Bodies'
+		$end 'Bodies'
+		$begin 'Faces'
+		$end 'Faces'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'DesignGeometryInfo'
+		ModelUnit='cm'
+		ModelerType=2
+		MinDimensionInModelUnits=1e-06
+		MaxDimensionInModelUnits=10000
+		GlobalCSID=1
+		RegionID=35
+		PreprocessForwardIdStart=63
+		PreprocessForwardIdEnd=63
+		PreprocessBackwardIdStart=2147483647
+		PreprocessBackwardIdEnd=2147483647
+	$end 'DesignGeometryInfo'
+	$begin 'Point3DDefinitionInfo'
+	$end 'Point3DDefinitionInfo'
+	$begin 'Plane3DDefinitionInfo'
+		Plane(-4, 'Global:XY', 1, -1, true, 0, 0, 0, 0, 0, 0, 0.1)
+		Plane(-3, 'Global:YZ', 1, -1, true, 6881380, 0, 0, 0, 0.1, 0, 0)
+		Plane(-2, 'Global:XZ', 1, -1, true, 2097152, 0, 0, 0, 0, 0.1, 0)
+	$end 'Plane3DDefinitionInfo'
+	$begin 'CoordinateSystemInfo'
+		CoordinateSystem(1, 'Global', -1, false, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
+	$end 'CoordinateSystemInfo'
+	$begin 'ComponentDefinitionInfo'
+	$end 'ComponentDefinitionInfo'
+	$begin 'ComponentInstanceInfo'
+	$end 'ComponentInstanceInfo'
+	$begin 'GeometryEntityListOperationInfo'
+		$begin 'EntityList'
+			ID=2
+			Name='AllObjects'
+			$begin 'GeometryEntityListParameters'
+				EntityType='Object'
+				EntityList(6, 16, 23, 35)
+			$end 'GeometryEntityListParameters'
+		$end 'EntityList'
+	$end 'GeometryEntityListOperationInfo'
+	$begin 'MaterialManager'
+		$begin 'ProjectMaterials'
+			$begin 'pec'
+				CoordinateSystemType='Cartesian'
+				BulkOrSurfaceType=1
+				$begin 'PhysicsTypes'
+					set('Electromagnetic')
+				$end 'PhysicsTypes'
+				$begin 'AttachedData'
+					$begin 'MatAppearanceData'
+						property_data='appearance_data'
+						Red=247
+						Green=242
+						Blue=232
+					$end 'MatAppearanceData'
+				$end 'AttachedData'
+				conductivity='1e+30'
+			$end 'pec'
+			$begin 'vacuum'
+				CoordinateSystemType='Cartesian'
+				BulkOrSurfaceType=1
+				$begin 'PhysicsTypes'
+					set('Electromagnetic')
+				$end 'PhysicsTypes'
+				$begin 'AttachedData'
+					$begin 'MatAppearanceData'
+						property_data='appearance_data'
+						Red=230
+						Green=230
+						Blue=230
+						Transparency=0.95
+					$end 'MatAppearanceData'
+				$end 'AttachedData'
+				permittivity='1'
+			$end 'vacuum'
+		$end 'ProjectMaterials'
+		$begin 'InternalPrivateMaterials'
+		$end 'InternalPrivateMaterials'
+	$end 'MaterialManager'
+$end 'DesignData'

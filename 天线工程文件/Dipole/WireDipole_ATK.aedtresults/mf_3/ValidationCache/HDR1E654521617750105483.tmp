@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='dipole_length=\'14.99cm\' port_gap=\'0.25cm\' wire_rad=\'0.25cm\''
+		Status=true
+		FileName='VI1E654521617750105484.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

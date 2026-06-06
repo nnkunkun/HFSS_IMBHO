@@ -1,0 +1,519 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002026, month=000000000004, day=000000000014, hour=000000000003, min=000000000040, sec=000000000029)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000044114, lin=000000000498, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='WireDipole_ATK1'
+	VersionID=30
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=20847
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='dipole_length=\'13.510299999999999cm\' port_gap=\'0.16719999999999999cm\' wire_rad=\'0.25900000000000001cm\'', ID=9964)
+		Map(V='dipole_length=\'13.528800000000002cm\' port_gap=\'0.21959999999999999cm\' wire_rad=\'0.249cm\'', ID=8749)
+		Map(V='dipole_length=\'13.531499999999999cm\' port_gap=\'0.25629999999999997cm\' wire_rad=\'0.15809999999999999cm\'', ID=16444)
+		Map(V='dipole_length=\'13.532299999999999cm\' port_gap=\'0.2208cm\' wire_rad=\'0.1837cm\'', ID=973)
+		Map(V='dipole_length=\'13.5502cm\' port_gap=\'0.18079999999999999cm\' wire_rad=\'0.3493cm\'', ID=16363)
+		Map(V='dipole_length=\'13.5722cm\' port_gap=\'0.32969999999999999cm\' wire_rad=\'0.33139999999999997cm\'', ID=20575)
+		Map(V='dipole_length=\'13.578500000000002cm\' port_gap=\'0.29049999999999998cm\' wire_rad=\'0.1618cm\'', ID=18631)
+		Map(V='dipole_length=\'13.593500000000001cm\' port_gap=\'0.26390000000000002cm\' wire_rad=\'0.3458cm\'', ID=5995)
+		Map(V='dipole_length=\'13.619899999999998cm\' port_gap=\'0.24970000000000001cm\' wire_rad=\'0.2331cm\'', ID=10774)
+		Map(V='dipole_length=\'13.619cm\' port_gap=\'0.19559999999999997cm\' wire_rad=\'0.30080000000000001cm\'', ID=3565)
+		Map(V='dipole_length=\'13.6218cm\' port_gap=\'0.24680000000000002cm\' wire_rad=\'0.29559999999999997cm\'', ID=7129)
+		Map(V='dipole_length=\'13.645899999999999cm\' port_gap=\'0.23740000000000003cm\' wire_rad=\'0.17019999999999999cm\'', ID=8020)
+		Map(V='dipole_length=\'13.662100000000002cm\' port_gap=\'0.22759999999999997cm\' wire_rad=\'0.17799999999999999cm\'', ID=811)
+		Map(V='dipole_length=\'13.663600000000001cm\' port_gap=\'0.18410000000000001cm\' wire_rad=\'0.20749999999999999cm\'', ID=7372)
+		Map(V='dipole_length=\'13.669700000000001cm\' port_gap=\'0.1578cm\' wire_rad=\'0.3226cm\'', ID=14905)
+		Map(V='dipole_length=\'13.687200000000002cm\' port_gap=\'0.3014cm\' wire_rad=\'0.25409999999999999cm\'', ID=14500)
+		Map(V='dipole_length=\'13.696400000000001cm\' port_gap=\'0.19659999999999997cm\' wire_rad=\'0.28939999999999999cm\'', ID=8911)
+		Map(V='dipole_length=\'13.717599999999999cm\' port_gap=\'0.31830000000000003cm\' wire_rad=\'0.15210000000000001cm\'', ID=15715)
+		Map(V='dipole_length=\'13.720000000000001cm\' port_gap=\'0.1701cm\' wire_rad=\'0.15709999999999999cm\'', ID=1135)
+		Map(V='dipole_length=\'13.739999999999998cm\' port_gap=\'0.2525cm\' wire_rad=\'0.30359999999999998cm\'', ID=7534)
+		Map(V='dipole_length=\'13.7468cm\' port_gap=\'0.17710000000000001cm\' wire_rad=\'0.27000000000000002cm\'', ID=8668)
+		Map(V='dipole_length=\'13.7631cm\' port_gap=\'0.20140000000000002cm\' wire_rad=\'0.15970000000000001cm\'', ID=2998)
+		Map(V='dipole_length=\'13.767300000000002cm\' port_gap=\'0.24890000000000004cm\' wire_rad=\'0.15090000000000001cm\'', ID=12961)
+		Map(V='dipole_length=\'13.778499999999999cm\' port_gap=\'0.3216cm\' wire_rad=\'0.33760000000000001cm\'', ID=6562)
+		Map(V='dipole_length=\'13.7913cm\' port_gap=\'0.17169999999999999cm\' wire_rad=\'0.19309999999999999cm\'', ID=17335)
+		Map(V='dipole_length=\'13.807700000000001cm\' port_gap=\'0.31569999999999998cm\' wire_rad=\'0.24909999999999996cm\'', ID=1297)
+		Map(V='dipole_length=\'13.808700000000002cm\' port_gap=\'0.30599999999999999cm\' wire_rad=\'0.34420000000000001cm\'', ID=6967)
+		Map(V='dipole_length=\'13.827900000000001cm\' port_gap=\'0.29720000000000002cm\' wire_rad=\'0.29620000000000002cm\'', ID=9559)
+		Map(V='dipole_length=\'13.832700000000001cm\' port_gap=\'0.28349999999999997cm\' wire_rad=\'0.22570000000000004cm\'', ID=9073)
+		Map(V='dipole_length=\'13.8546cm\' port_gap=\'0.27400000000000002cm\' wire_rad=\'0.20230000000000001cm\'', ID=6319)
+		Map(V='dipole_length=\'13.869999999999999cm\' port_gap=\'0.1583cm\' wire_rad=\'0.18290000000000001cm\'', ID=10531)
+		Map(V='dipole_length=\'13.883699999999999cm\' port_gap=\'0.19109999999999999cm\' wire_rad=\'0.29060000000000002cm\'', ID=20089)
+		Map(V='dipole_length=\'13.8985cm\' port_gap=\'0.19470000000000001cm\' wire_rad=\'0.33479999999999999cm\'', ID=14014)
+		Map(V='dipole_length=\'13.905799999999999cm\' port_gap=\'0.34360000000000002cm\' wire_rad=\'0.32740000000000002cm\'', ID=5104)
+		Map(V='dipole_length=\'13.912800000000001cm\' port_gap=\'0.33040000000000003cm\' wire_rad=\'0.20860000000000001cm\'', ID=4051)
+		Map(V='dipole_length=\'13.924300000000001cm\' port_gap=\'0.18290000000000001cm\' wire_rad=\'0.2278cm\'', ID=16768)
+		Map(V='dipole_length=\'13.948599999999999cm\' port_gap=\'0.3175cm\' wire_rad=\'0.27629999999999999cm\'', ID=17578)
+		Map(V='dipole_length=\'13.950999999999999cm\' port_gap=\'0.28699999999999998cm\' wire_rad=\'0.33600000000000002cm\'', ID=8344)
+		Map(V='dipole_length=\'13.972000000000001cm\' port_gap=\'0.1865cm\' wire_rad=\'0.23280000000000001cm\'', ID=12232)
+		Map(V='dipole_length=\'13.974400000000001cm\' port_gap=\'0.30409999999999998cm\' wire_rad=\'0.17180000000000001cm\'', ID=3970)
+		Map(V='dipole_length=\'13.981499999999999cm\' port_gap=\'0.26719999999999999cm\' wire_rad=\'0.28699999999999998cm\'', ID=9883)
+		Map(V='dipole_length=\'13.996600000000001cm\' port_gap=\'0.1888cm\' wire_rad=\'0.1741cm\'', ID=6238)
+		Map(V='dipole_length=\'14.0238cm\' port_gap=\'0.30099999999999999cm\' wire_rad=\'0.33489999999999998cm\'', ID=3646)
+		Map(V='dipole_length=\'14.023cm\' port_gap=\'0.1623cm\' wire_rad=\'0.18559999999999999cm\'', ID=18550)
+		Map(V='dipole_length=\'14.030200000000001cm\' port_gap=\'0.31330000000000002cm\' wire_rad=\'0.24199999999999999cm\'', ID=19846)
+		Map(V='dipole_length=\'14.041999999999998cm\' port_gap=\'0.33729999999999999cm\' wire_rad=\'0.31069999999999998cm\'', ID=1540)
+		Map(V='dipole_length=\'14.049100000000001cm\' port_gap=\'0.2848cm\' wire_rad=\'0.2606cm\'', ID=15229)
+		Map(V='dipole_length=\'14.059699999999999cm\' port_gap=\'0.3453cm\' wire_rad=\'0.33300000000000002cm\'', ID=13852)
+		Map(V='dipole_length=\'14.072699999999999cm\' port_gap=\'0.17649999999999999cm\' wire_rad=\'0.30459999999999998cm\'', ID=18712)
+		Map(V='dipole_length=\'14.0869cm\' port_gap=\'0.33050000000000002cm\' wire_rad=\'0.29189999999999999cm\'', ID=9154)
+		Map(V='dipole_length=\'14.113899999999999cm\' port_gap=\'0.23230000000000001cm\' wire_rad=\'0.28489999999999999cm\'', ID=16282)
+		Map(V='dipole_length=\'14.1288cm\' port_gap=\'0.20399999999999996cm\' wire_rad=\'0.30880000000000002cm\'', ID=19765)
+		Map(V='dipole_length=\'14.132199999999999cm\' port_gap=\'0.26989999999999997cm\' wire_rad=\'0.31669999999999998cm\'', ID=5590)
+		Map(V='dipole_length=\'14.149500000000002cm\' port_gap=\'0.17879999999999999cm\' wire_rad=\'0.31879999999999997cm\'', ID=3484)
+		Map(V='dipole_length=\'14.1563cm\' port_gap=\'0.32300000000000001cm\' wire_rad=\'0.20130000000000001cm\'', ID=17659)
+		Map(V='dipole_length=\'14.167499999999999cm\' port_gap=\'0.15140000000000001cm\' wire_rad=\'0.2555cm\'', ID=10693)
+		Map(V='dipole_length=\'14.1736cm\' port_gap=\'0.1547cm\' wire_rad=\'0.21620000000000003cm\'', ID=2917)
+		Map(V='dipole_length=\'14.188700000000001cm\' port_gap=\'0.29160000000000003cm\' wire_rad=\'0.20679999999999998cm\'', ID=17983)
+		Map(V='dipole_length=\'14.1927cm\' port_gap=\'0.25459999999999999cm\' wire_rad=\'0.2525cm\'', ID=7696)
+		Map(V='dipole_length=\'14.219000000000001cm\' port_gap=\'0.34060000000000001cm\' wire_rad=\'0.30649999999999999cm\'', ID=7858)
+		Map(V='dipole_length=\'14.2247cm\' port_gap=\'0.22750000000000001cm\' wire_rad=\'0.33589999999999998cm\'', ID=16606)
+		Map(V='dipole_length=\'14.238799999999998cm\' port_gap=\'0.17599999999999999cm\' wire_rad=\'0.27729999999999999cm\'', ID=4537)
+		Map(V='dipole_length=\'14.258999999999999cm\' port_gap=\'0.34939999999999999cm\' wire_rad=\'0.31359999999999999cm\'', ID=19198)
+		Map(V='dipole_length=\'14.277000000000001cm\' port_gap=\'0.23910000000000003cm\' wire_rad=\'0.15709999999999999cm\'', ID=9721)
+		Map(V='dipole_length=\'14.2904cm\' port_gap=\'0.2298cm\' wire_rad=\'0.34300000000000003cm\'', ID=4942)
+		Map(V='dipole_length=\'14.302300000000001cm\' port_gap=\'0.34250000000000003cm\' wire_rad=\'0.19719999999999999cm\'', ID=16930)
+		Map(V='dipole_length=\'14.316999999999998cm\' port_gap=\'0.24840000000000001cm\' wire_rad=\'0.17649999999999999cm\'', ID=3322)
+		Map(V='dipole_length=\'14.322999999999999cm\' port_gap=\'0.18190000000000001cm\' wire_rad=\'0.2089cm\'', ID=19036)
+		Map(V='dipole_length=\'14.334299999999999cm\' port_gap=\'0.2893cm\' wire_rad=\'0.24720000000000003cm\'', ID=18874)
+		Map(V='dipole_length=\'14.3538cm\' port_gap=\'0.28010000000000002cm\' wire_rad=\'0.23670000000000002cm\'', ID=19360)
+		Map(V='dipole_length=\'14.367799999999999cm\' port_gap=\'0.17349999999999999cm\' wire_rad=\'0.29770000000000002cm\'', ID=14986)
+		Map(V='dipole_length=\'14.375000000000002cm\' port_gap=\'0.2732cm\' wire_rad=\'0.3044cm\'', ID=3808)
+		Map(V='dipole_length=\'14.3813cm\' port_gap=\'0.23029999999999998cm\' wire_rad=\'0.17499999999999999cm\'', ID=9640)
+		Map(V='dipole_length=\'14.385800000000001cm\' port_gap=\'0.21049999999999999cm\' wire_rad=\'0.32990000000000003cm\'', ID=15391)
+		Map(V='dipole_length=\'14.4072cm\' port_gap=\'0.28129999999999999cm\' wire_rad=\'0.26029999999999998cm\'', ID=2755)
+		Map(V='dipole_length=\'14.4099cm\' port_gap=\'0.3165cm\' wire_rad=\'0.1888cm\'', ID=19441)
+		Map(V='dipole_length=\'14.4267cm\' port_gap=\'0.30070000000000002cm\' wire_rad=\'0.17610000000000001cm\'', ID=8425)
+		Map(V='dipole_length=\'14.431100000000002cm\' port_gap=\'0.31590000000000001cm\' wire_rad=\'0.3332cm\'', ID=20008)
+		Map(V='dipole_length=\'14.445499999999999cm\' port_gap=\'0.2311cm\' wire_rad=\'0.2823cm\'', ID=11989)
+		Map(V='dipole_length=\'14.460800000000001cm\' port_gap=\'0.34470000000000001cm\' wire_rad=\'0.21099999999999999cm\'', ID=5347)
+		Map(V='dipole_length=\'14.480399999999998cm\' port_gap=\'0.2581cm\' wire_rad=\'0.22009999999999999cm\'', ID=11827)
+		Map(V='dipole_length=\'14.488899999999999cm\' port_gap=\'0.20779999999999998cm\' wire_rad=\'0.27039999999999997cm\'', ID=2674)
+		Map(V='dipole_length=\'14.491300000000001cm\' port_gap=\'0.30430000000000001cm\' wire_rad=\'0.23540000000000003cm\'', ID=12799)
+		Map(V='dipole_length=\'14.512cm\' port_gap=\'0.2969cm\' wire_rad=\'0.15939999999999999cm\'', ID=18388)
+		Map(V='dipole_length=\'14.5284cm\' port_gap=\'0.23610000000000003cm\' wire_rad=\'0.26860000000000001cm\'', ID=19522)
+		Map(V='dipole_length=\'14.5474cm\' port_gap=\'0.21859999999999999cm\' wire_rad=\'0.1603cm\'', ID=11422)
+		Map(V='dipole_length=\'14.5571cm\' port_gap=\'0.17269999999999999cm\' wire_rad=\'0.32669999999999999cm\'', ID=6724)
+		Map(V='dipole_length=\'14.5662cm\' port_gap=\'0.20960000000000001cm\' wire_rad=\'0.15529999999999999cm\'', ID=12151)
+		Map(V='dipole_length=\'14.569100000000001cm\' port_gap=\'0.24239999999999998cm\' wire_rad=\'0.2331cm\'', ID=4132)
+		Map(V='dipole_length=\'14.5844cm\' port_gap=\'0.29249999999999998cm\' wire_rad=\'0.219cm\'', ID=14419)
+		Map(V='dipole_length=\'14.5907cm\' port_gap=\'0.26729999999999998cm\' wire_rad=\'0.22330000000000003cm\'', ID=1216)
+		Map(V='dipole_length=\'14.6021cm\' port_gap=\'0.24299999999999999cm\' wire_rad=\'0.33050000000000002cm\'', ID=15148)
+		Map(V='dipole_length=\'14.617000000000003cm\' port_gap=\'0.20130000000000001cm\' wire_rad=\'0.23710000000000003cm\'', ID=10612)
+		Map(V='dipole_length=\'14.627900000000002cm\' port_gap=\'0.27279999999999999cm\' wire_rad=\'0.19539999999999999cm\'', ID=18955)
+		Map(V='dipole_length=\'14.649699999999999cm\' port_gap=\'0.3286cm\' wire_rad=\'0.25659999999999999cm\'', ID=6481)
+		Map(V='dipole_length=\'14.6503cm\' port_gap=\'0.21480000000000002cm\' wire_rad=\'0.28610000000000002cm\'', ID=1459)
+		Map(V='dipole_length=\'14.665900000000001cm\' port_gap=\'0.18529999999999999cm\' wire_rad=\'0.22439999999999999cm\'', ID=18793)
+		Map(V='dipole_length=\'14.681199999999999cm\' port_gap=\'0.19559999999999997cm\' wire_rad=\'0.22950000000000001cm\'', ID=5671)
+		Map(V='dipole_length=\'14.697699999999999cm\' port_gap=\'0.28299999999999997cm\' wire_rad=\'0.15690000000000001cm\'', ID=10126)
+		Map(V='dipole_length=\'14.701600000000001cm\' port_gap=\'0.1792cm\' wire_rad=\'0.26290000000000002cm\'', ID=14257)
+		Map(V='dipole_length=\'14.7166cm\' port_gap=\'0.19739999999999999cm\' wire_rad=\'0.16600000000000001cm\'', ID=14743)
+		Map(V='dipole_length=\'14.74cm\' port_gap=\'0.29399999999999998cm\' wire_rad=\'0.245cm\'', ID=11341)
+		Map(V='dipole_length=\'14.752899999999999cm\' port_gap=\'0.1656cm\' wire_rad=\'0.25190000000000001cm\'', ID=1702)
+		Map(V='dipole_length=\'14.757999999999999cm\' port_gap=\'0.18920000000000001cm\' wire_rad=\'0.29830000000000001cm\'', ID=19603)
+		Map(V='dipole_length=\'14.769299999999999cm\' port_gap=\'0.26640000000000003cm\' wire_rad=\'0.32379999999999998cm\'', ID=8830)
+		Map(V='dipole_length=\'14.769399999999999cm\' port_gap=\'0.23150000000000001cm\' wire_rad=\'0.19900000000000001cm\'', ID=2188)
+		Map(V='dipole_length=\'14.775700000000001cm\' port_gap=\'0.1754cm\' wire_rad=\'0.3155cm\'', ID=13204)
+		Map(V='dipole_length=\'14.804900000000002cm\' port_gap=\'0.22450000000000001cm\' wire_rad=\'0.2382cm\'', ID=6643)
+		Map(V='dipole_length=\'14.819299999999998cm\' port_gap=\'0.2858cm\' wire_rad=\'0.33810000000000001cm\'', ID=20656)
+		Map(V='dipole_length=\'14.832900000000002cm\' port_gap=\'0.33629999999999999cm\' wire_rad=\'0.24039999999999997cm\'', ID=17740)
+		Map(V='dipole_length=\'14.835599999999998cm\' port_gap=\'0.2505cm\' wire_rad=\'0.33139999999999997cm\'', ID=4213)
+		Map(V='dipole_length=\'14.8429cm\' port_gap=\'0.23840000000000003cm\' wire_rad=\'0.1991cm\'', ID=20332)
+		Map(V='dipole_length=\'14.863300000000001cm\' port_gap=\'0.30840000000000001cm\' wire_rad=\'0.26379999999999998cm\'', ID=13609)
+		Map(V='dipole_length=\'14.8728cm\' port_gap=\'0.31009999999999999cm\' wire_rad=\'0.21529999999999999cm\'', ID=16687)
+		Map(V='dipole_length=\'14.8865cm\' port_gap=\'0.20330000000000001cm\' wire_rad=\'0.1678cm\'', ID=3889)
+		Map(V='dipole_length=\'14.888100000000001cm\' port_gap=\'0.34660000000000002cm\' wire_rad=\'0.24680000000000002cm\'', ID=18307)
+		Map(V='dipole_length=\'14.9017cm\' port_gap=\'0.21759999999999999cm\' wire_rad=\'0.22290000000000001cm\'', ID=5266)
+		Map(V='dipole_length=\'14.9183cm\' port_gap=\'0.27879999999999999cm\' wire_rad=\'0.17100000000000001cm\'', ID=16120)
+		Map(V='dipole_length=\'14.9297cm\' port_gap=\'0.20019999999999999cm\' wire_rad=\'0.2671cm\'', ID=11746)
+		Map(V='dipole_length=\'14.953099999999999cm\' port_gap=\'0.20649999999999999cm\' wire_rad=\'0.21970000000000001cm\'', ID=6400)
+		Map(V='dipole_length=\'14.960800000000001cm\' port_gap=\'0.28639999999999999cm\' wire_rad=\'0.2213cm\'', ID=13528)
+		Map(V='dipole_length=\'14.972799999999999cm\' port_gap=\'0.2772cm\' wire_rad=\'0.31169999999999998cm\'', ID=14662)
+		Map(V='dipole_length=\'14.981900000000001cm\' port_gap=\'0.2238cm\' wire_rad=\'0.23980000000000004cm\'', ID=1054)
+		Map(V='dipole_length=\'14.988500000000002cm\' port_gap=\'0.16189999999999999cm\' wire_rad=\'0.18709999999999999cm\'', ID=5914)
+		Map(V='dipole_length=\'14.99cm\' port_gap=\'0.25cm\' wire_rad=\'0.25cm\'', ID=95)
+		Map(V='dipole_length=\'15.0039cm\' port_gap=\'0.22800000000000004cm\' wire_rad=\'0.16220000000000001cm\'', ID=9478)
+		Map(V='dipole_length=\'15.027999999999999cm\' port_gap=\'0.26000000000000001cm\' wire_rad=\'0.1928cm\'', ID=15634)
+		Map(V='dipole_length=\'15.0313cm\' port_gap=\'0.15640000000000001cm\' wire_rad=\'0.28660000000000002cm\'', ID=6157)
+		Map(V='dipole_length=\'15.051300000000001cm\' port_gap=\'0.33889999999999998cm\' wire_rad=\'0.1537cm\'', ID=2269)
+		Map(V='dipole_length=\'15.057200000000002cm\' port_gap=\'0.24759999999999999cm\' wire_rad=\'0.2707cm\'', ID=7453)
+		Map(V='dipole_length=\'15.070399999999999cm\' port_gap=\'0.24480000000000002cm\' wire_rad=\'0.18149999999999999cm\'', ID=15877)
+		Map(V='dipole_length=\'15.0844cm\' port_gap=\'0.1605cm\' wire_rad=\'0.15429999999999999cm\'', ID=16201)
+		Map(V='dipole_length=\'15.0906cm\' port_gap=\'0.16420000000000001cm\' wire_rad=\'0.32450000000000001cm\'', ID=10936)
+		Map(V='dipole_length=\'15.095000000000001cm\' port_gap=\'0.19400000000000001cm\' wire_rad=\'0.34460000000000002cm\'', ID=3079)
+		Map(V='dipole_length=\'15.105199999999998cm\' port_gap=\'0.22360000000000002cm\' wire_rad=\'0.28089999999999998cm\'', ID=13042)
+		Map(V='dipole_length=\'15.126600000000002cm\' port_gap=\'0.21299999999999999cm\' wire_rad=\'0.1835cm\'', ID=7291)
+		Map(V='dipole_length=\'15.148999999999999cm\' port_gap=\'0.1837cm\' wire_rad=\'0.1792cm\'', ID=11098)
+		Map(V='dipole_length=\'15.151800000000001cm\' port_gap=\'0.32379999999999998cm\' wire_rad=\'0.27939999999999998cm\'', ID=12394)
+		Map(V='dipole_length=\'15.1587cm\' port_gap=\'0.23719999999999999cm\' wire_rad=\'0.23510000000000003cm\'', ID=2350)
+		Map(V='dipole_length=\'15.172499999999999cm\' port_gap=\'0.2621cm\' wire_rad=\'0.29220000000000002cm\'', ID=11179)
+		Map(V='dipole_length=\'15.1851cm\' port_gap=\'0.24580000000000002cm\' wire_rad=\'0.31950000000000001cm\'', ID=19927)
+		Map(V='dipole_length=\'15.1959cm\' port_gap=\'0.18659999999999999cm\' wire_rad=\'0.1978cm\'', ID=3403)
+		Map(V='dipole_length=\'15.208599999999999cm\' port_gap=\'0.2079cm\' wire_rad=\'0.2717cm\'', ID=10045)
+		Map(V='dipole_length=\'15.218500000000001cm\' port_gap=\'0.26429999999999998cm\' wire_rad=\'0.1517cm\'', ID=19117)
+		Map(V='dipole_length=\'15.2281cm\' port_gap=\'0.23300000000000001cm\' wire_rad=\'0.33989999999999998cm\'', ID=11908)
+		Map(V='dipole_length=\'15.254000000000001cm\' port_gap=\'0.28100000000000003cm\' wire_rad=\'0.19450000000000001cm\'', ID=18226)
+		Map(V='dipole_length=\'15.256500000000001cm\' port_gap=\'0.19970000000000002cm\' wire_rad=\'0.24340000000000001cm\'', ID=17092)
+		Map(V='dipole_length=\'15.257400000000001cm\' port_gap=\'0.32150000000000001cm\' wire_rad=\'0.28070000000000001cm\'', ID=3241)
+		Map(V='dipole_length=\'15.283899999999999cm\' port_gap=\'0.30259999999999998cm\' wire_rad=\'0.3145cm\'', ID=17821)
+		Map(V='dipole_length=\'15.295400000000001cm\' port_gap=\'0.27179999999999999cm\' wire_rad=\'0.16889999999999999cm\'', ID=9397)
+		Map(V='dipole_length=\'15.3093cm\' port_gap=\'0.26019999999999999cm\' wire_rad=\'0.23400000000000001cm\'', ID=20737)
+		Map(V='dipole_length=\'15.322100000000002cm\' port_gap=\'0.34760000000000002cm\' wire_rad=\'0.22040000000000001cm\'', ID=1945)
+		Map(V='dipole_length=\'15.327299999999999cm\' port_gap=\'0.31919999999999998cm\' wire_rad=\'0.20410000000000003cm\'', ID=9802)
+		Map(V='dipole_length=\'15.330599999999999cm\' port_gap=\'0.31cm\' wire_rad=\'0.17999999999999999cm\'', ID=6076)
+		Map(V='dipole_length=\'15.356800000000002cm\' port_gap=\'0.18709999999999999cm\' wire_rad=\'0.27589999999999998cm\'', ID=7777)
+		Map(V='dipole_length=\'15.374799999999999cm\' port_gap=\'0.16650000000000001cm\' wire_rad=\'0.21779999999999997cm\'', ID=7210)
+		Map(V='dipole_length=\'15.376600000000002cm\' port_gap=\'0.25cm\' wire_rad=\'0.23969999999999997cm\'', ID=573)
+		Map(V='dipole_length=\'15.376600000000002cm\' port_gap=\'0.25cm\' wire_rad=\'0.25cm\'', ID=572)
+		Map(V='dipole_length=\'15.376600000000002cm\' port_gap=\'0.32590000000000002cm\' wire_rad=\'0.23969999999999997cm\'', ID=574)
+		Map(V='dipole_length=\'15.379099999999998cm\' port_gap=\'0.21629999999999999cm\' wire_rad=\'0.3463cm\'', ID=15958)
+		Map(V='dipole_length=\'15.3857cm\' port_gap=\'0.30869999999999997cm\' wire_rad=\'0.16309999999999999cm\'', ID=2593)
+		Map(V='dipole_length=\'15.3986cm\' port_gap=\'0.1598cm\' wire_rad=\'0.25740000000000002cm\'', ID=14824)
+		Map(V='dipole_length=\'15.413600000000002cm\' port_gap=\'0.30399999999999999cm\' wire_rad=\'0.1641cm\'', ID=5428)
+		Map(V='dipole_length=\'15.424200000000001cm\' port_gap=\'0.33160000000000001cm\' wire_rad=\'0.31719999999999998cm\'', ID=11017)
+		Map(V='dipole_length=\'15.438100000000002cm\' port_gap=\'0.32890000000000003cm\' wire_rad=\'0.3417cm\'', ID=730)
+		Map(V='dipole_length=\'15.444599999999999cm\' port_gap=\'0.17080000000000001cm\' wire_rad=\'0.28310000000000002cm\'', ID=20494)
+		Map(V='dipole_length=\'15.451999999999998cm\' port_gap=\'0.30769999999999997cm\' wire_rad=\'0.27200000000000002cm\'', ID=13285)
+		Map(V='dipole_length=\'15.467600000000001cm\' port_gap=\'0.19220000000000001cm\' wire_rad=\'0.22370000000000001cm\'', ID=15067)
+		Map(V='dipole_length=\'15.481800000000002cm\' port_gap=\'0.32590000000000002cm\' wire_rad=\'0.26200000000000001cm\'', ID=15553)
+		Map(V='dipole_length=\'15.490700000000002cm\' port_gap=\'0.2102cm\' wire_rad=\'0.21250000000000002cm\'', ID=4699)
+		Map(V='dipole_length=\'15.502000000000002cm\' port_gap=\'0.24239999999999998cm\' wire_rad=\'0.2732cm\'', ID=15796)
+		Map(V='dipole_length=\'15.514700000000001cm\' port_gap=\'0.25309999999999999cm\' wire_rad=\'0.30719999999999997cm\'', ID=20413)
+		Map(V='dipole_length=\'15.529299999999999cm\' port_gap=\'0.2056cm\' wire_rad=\'0.2782cm\'', ID=17416)
+		Map(V='dipole_length=\'15.547599999999999cm\' port_gap=\'0.29849999999999999cm\' wire_rad=\'0.1893cm\'', ID=17173)
+		Map(V='dipole_length=\'15.564cm\' port_gap=\'0.29559999999999997cm\' wire_rad=\'0.17330000000000001cm\'', ID=12880)
+		Map(V='dipole_length=\'15.573700000000001cm\' port_gap=\'0.32369999999999999cm\' wire_rad=\'0.24490000000000001cm\'', ID=1621)
+		Map(V='dipole_length=\'15.5814cm\' port_gap=\'0.33900000000000002cm\' wire_rad=\'0.25009999999999999cm\'', ID=8263)
+		Map(V='dipole_length=\'15.595599999999997cm\' port_gap=\'0.22159999999999999cm\' wire_rad=\'0.34749999999999998cm\'', ID=10855)
+		Map(V='dipole_length=\'15.608599999999999cm\' port_gap=\'0.31419999999999998cm\' wire_rad=\'0.3412cm\'', ID=11584)
+		Map(V='dipole_length=\'15.625cm\' port_gap=\'0.3337cm\' wire_rad=\'0.31030000000000002cm\'', ID=8182)
+		Map(V='dipole_length=\'15.6394cm\' port_gap=\'0.15429999999999999cm\' wire_rad=\'0.3004cm\'', ID=12637)
+		Map(V='dipole_length=\'15.649100000000002cm\' port_gap=\'0.17000000000000001cm\' wire_rad=\'0.1981cm\'', ID=13123)
+		Map(V='dipole_length=\'15.659900000000002cm\' port_gap=\'0.2631cm\' wire_rad=\'0.31590000000000001cm\'', ID=1378)
+		Map(V='dipole_length=\'15.6637cm\' port_gap=\'0.23580000000000004cm\' wire_rad=\'0.28589999999999999cm\'', ID=11503)
+		Map(V='dipole_length=\'15.682cm\' port_gap=\'0.33929999999999999cm\' wire_rad=\'0.28189999999999998cm\'', ID=10207)
+		Map(V='dipole_length=\'15.694900000000001cm\' port_gap=\'0.15279999999999999cm\' wire_rad=\'0.26650000000000001cm\'', ID=16039)
+		Map(V='dipole_length=\'15.7179cm\' port_gap=\'0.17860000000000001cm\' wire_rad=\'0.17269999999999999cm\'', ID=13690)
+		Map(V='dipole_length=\'15.7189cm\' port_gap=\'0.29699999999999999cm\' wire_rad=\'0.34899999999999998cm\'', ID=2107)
+		Map(V='dipole_length=\'15.724599999999999cm\' port_gap=\'0.1651cm\' wire_rad=\'0.30520000000000003cm\'', ID=20170)
+		Map(V='dipole_length=\'15.737100000000002cm\' port_gap=\'0.3201cm\' wire_rad=\'0.21380000000000002cm\'', ID=17254)
+		Map(V='dipole_length=\'15.7536cm\' port_gap=\'0.17499999999999999cm\' wire_rad=\'0.1842cm\'', ID=12718)
+		Map(V='dipole_length=\'15.760199999999999cm\' port_gap=\'0.1676cm\' wire_rad=\'0.29459999999999997cm\'', ID=1783)
+		Map(V='dipole_length=\'15.7782cm\' port_gap=\'0.27360000000000001cm\' wire_rad=\'0.2646cm\'', ID=16849)
+		Map(V='dipole_length=\'15.7807cm\' port_gap=\'0.2147cm\' wire_rad=\'0.26569999999999999cm\'', ID=14176)
+		Map(V='dipole_length=\'15.809799999999999cm\' port_gap=\'0.21560000000000004cm\' wire_rad=\'0.16980000000000001cm\'', ID=14338)
+		Map(V='dipole_length=\'15.8118cm\' port_gap=\'0.2797cm\' wire_rad=\'0.34239999999999998cm\'', ID=7615)
+		Map(V='dipole_length=\'15.815400000000002cm\' port_gap=\'0.28510000000000002cm\' wire_rad=\'0.19270000000000001cm\'', ID=2836)
+		Map(V='dipole_length=\'15.835599999999999cm\' port_gap=\'0.2767cm\' wire_rad=\'0.32569999999999999cm\'', ID=13447)
+		Map(V='dipole_length=\'15.8439cm\' port_gap=\'0.27050000000000002cm\' wire_rad=\'0.19659999999999997cm\'', ID=20818)
+		Map(V='dipole_length=\'15.8588cm\' port_gap=\'0.33539999999999998cm\' wire_rad=\'0.22650000000000001cm\'', ID=14581)
+		Map(V='dipole_length=\'15.867600000000001cm\' port_gap=\'0.2412cm\' wire_rad=\'0.32679999999999998cm\'', ID=2026)
+		Map(V='dipole_length=\'15.873500000000002cm\' port_gap=\'0.27579999999999999cm\' wire_rad=\'0.21049999999999999cm\'', ID=8101)
+		Map(V='dipole_length=\'15.890499999999999cm\' port_gap=\'0.3372cm\' wire_rad=\'0.29430000000000001cm\'', ID=8992)
+		Map(V='dipole_length=\'15.9031cm\' port_gap=\'0.2225cm\' wire_rad=\'0.20380000000000004cm\'', ID=12313)
+		Map(V='dipole_length=\'15.925500000000001cm\' port_gap=\'0.25480000000000003cm\' wire_rad=\'0.26939999999999997cm\'', ID=4456)
+		Map(V='dipole_length=\'15.926199999999998cm\' port_gap=\'0.34860000000000002cm\' wire_rad=\'0.3201cm\'', ID=18145)
+		Map(V='dipole_length=\'15.9377cm\' port_gap=\'0.31130000000000002cm\' wire_rad=\'0.1779cm\'', ID=12556)
+		Map(V='dipole_length=\'15.945200000000002cm\' port_gap=\'0.21150000000000002cm\' wire_rad=\'0.24979999999999997cm\'', ID=4861)
+		Map(V='dipole_length=\'15.963699999999999cm\' port_gap=\'0.31269999999999998cm\' wire_rad=\'0.1656cm\'', ID=10288)
+		Map(V='dipole_length=\'15.9892cm\' port_gap=\'0.22059999999999999cm\' wire_rad=\'0.20070000000000002cm\'', ID=7939)
+		Map(V='dipole_length=\'15.992800000000001cm\' port_gap=\'0.29999999999999999cm\' wire_rad=\'0.1787cm\'', ID=5752)
+		Map(V='dipole_length=\'15.995699999999999cm\' port_gap=\'0.28870000000000001cm\' wire_rad=\'0.2046cm\'', ID=4294)
+		Map(V='dipole_length=\'16.011500000000002cm\' port_gap=\'0.25590000000000002cm\' wire_rad=\'0.34079999999999999cm\'', ID=19684)
+		Map(V='dipole_length=\'16.021999999999998cm\' port_gap=\'0.33460000000000001cm\' wire_rad=\'0.191cm\'', ID=10450)
+		Map(V='dipole_length=\'16.035299999999999cm\' port_gap=\'0.25140000000000001cm\' wire_rad=\'0.30149999999999999cm\'', ID=16525)
+		Map(V='dipole_length=\'16.050999999999998cm\' port_gap=\'0.16300000000000001cm\' wire_rad=\'0.32890000000000003cm\'', ID=9235)
+		Map(V='dipole_length=\'16.059999999999999cm\' port_gap=\'0.2767cm\' wire_rad=\'0.30780000000000002cm\'', ID=892)
+		Map(V='dipole_length=\'16.069099999999999cm\' port_gap=\'0.20380000000000004cm\' wire_rad=\'0.25119999999999998cm\'', ID=10369)
+		Map(V='dipole_length=\'16.094899999999999cm\' port_gap=\'0.26190000000000002cm\' wire_rad=\'0.29330000000000001cm\'', ID=5509)
+		Map(V='dipole_length=\'16.1006cm\' port_gap=\'0.3453cm\' wire_rad=\'0.29049999999999998cm\'', ID=3727)
+		Map(V='dipole_length=\'16.1038cm\' port_gap=\'0.15559999999999999cm\' wire_rad=\'0.16320000000000001cm\'', ID=5023)
+		Map(V='dipole_length=\'16.1248cm\' port_gap=\'0.22650000000000001cm\' wire_rad=\'0.31259999999999999cm\'', ID=8587)
+		Map(V='dipole_length=\'16.130600000000001cm\' port_gap=\'0.2409cm\' wire_rad=\'0.15359999999999999cm\'', ID=17902)
+		Map(V='dipole_length=\'16.148599999999998cm\' port_gap=\'0.1905cm\' wire_rad=\'0.2167cm\'', ID=19279)
+		Map(V='dipole_length=\'16.151399999999999cm\' port_gap=\'0.31309999999999999cm\' wire_rad=\'0.18740000000000001cm\'', ID=1864)
+		Map(V='dipole_length=\'16.162700000000001cm\' port_gap=\'0.28870000000000001cm\' wire_rad=\'0.30959999999999999cm\'', ID=9316)
+		Map(V='dipole_length=\'16.176600000000001cm\' port_gap=\'0.34179999999999999cm\' wire_rad=\'0.27460000000000001cm\'', ID=13771)
+		Map(V='dipole_length=\'16.197900000000001cm\' port_gap=\'0.1933cm\' wire_rad=\'0.24249999999999999cm\'', ID=8506)
+		Map(V='dipole_length=\'16.211500000000001cm\' port_gap=\'0.2913cm\' wire_rad=\'0.26279999999999998cm\'', ID=2512)
+		Map(V='dipole_length=\'16.212399999999999cm\' port_gap=\'0.29389999999999999cm\' wire_rad=\'0.23999999999999996cm\'', ID=12070)
+		Map(V='dipole_length=\'16.222000000000001cm\' port_gap=\'0.25069999999999998cm\' wire_rad=\'0.2596cm\'', ID=11665)
+		Map(V='dipole_length=\'16.240300000000001cm\' port_gap=\'0.24139999999999998cm\' wire_rad=\'0.27739999999999998cm\'', ID=15310)
+		Map(V='dipole_length=\'16.254999999999999cm\' port_gap=\'0.3322cm\' wire_rad=\'0.31819999999999998cm\'', ID=18064)
+		Map(V='dipole_length=\'16.263300000000001cm\' port_gap=\'0.2651cm\' wire_rad=\'0.34860000000000002cm\'', ID=7048)
+		Map(V='dipole_length=\'16.275099999999998cm\' port_gap=\'0.15210000000000001cm\' wire_rad=\'0.22859999999999997cm\'', ID=3160)
+		Map(V='dipole_length=\'16.2837cm\' port_gap=\'0.30659999999999998cm\' wire_rad=\'0.1862cm\'', ID=12475)
+		Map(V='dipole_length=\'16.291599999999999cm\' port_gap=\'0.32440000000000002cm\' wire_rad=\'0.30259999999999998cm\'', ID=18469)
+		Map(V='dipole_length=\'16.306699999999999cm\' port_gap=\'0.19889999999999999cm\' wire_rad=\'0.29930000000000001cm\'', ID=20251)
+		Map(V='dipole_length=\'16.321400000000001cm\' port_gap=\'0.16cm\' wire_rad=\'0.32369999999999999cm\'', ID=4375)
+		Map(V='dipole_length=\'16.322399999999998cm\' port_gap=\'0.23440000000000003cm\' wire_rad=\'0.21299999999999999cm\'', ID=11260)
+		Map(V='dipole_length=\'16.3398cm\' port_gap=\'0.22590000000000002cm\' wire_rad=\'0.2092cm\'', ID=13933)
+		Map(V='dipole_length=\'16.360499999999998cm\' port_gap=\'0.34739999999999999cm\' wire_rad=\'0.2281cm\'', ID=4780)
+		Map(V='dipole_length=\'16.377400000000002cm\' port_gap=\'0.15359999999999999cm\' wire_rad=\'0.2147cm\'', ID=6886)
+		Map(V='dipole_length=\'16.388400000000001cm\' port_gap=\'0.15029999999999999cm\' wire_rad=\'0.23019999999999999cm\'', ID=15472)
+		Map(V='dipole_length=\'16.4026cm\' port_gap=\'0.18579999999999999cm\' wire_rad=\'0.2571cm\'', ID=2431)
+		Map(V='dipole_length=\'16.403199999999998cm\' port_gap=\'0.25779999999999997cm\' wire_rad=\'0.32129999999999997cm\'', ID=17497)
+		Map(V='dipole_length=\'16.4206cm\' port_gap=\'0.26889999999999997cm\' wire_rad=\'0.254cm\'', ID=6805)
+		Map(V='dipole_length=\'16.427499999999998cm\' port_gap=\'0.32650000000000001cm\' wire_rad=\'0.19189999999999999cm\'', ID=5833)
+		Map(V='dipole_length=\'16.4497cm\' port_gap=\'0.2586cm\' wire_rad=\'0.28299999999999997cm\'', ID=4618)
+		Map(V='dipole_length=\'16.4528cm\' port_gap=\'0.16880000000000001cm\' wire_rad=\'0.24560000000000001cm\'', ID=17011)
+		Map(V='dipole_length=\'16.4636cm\' port_gap=\'0.21299999999999999cm\' wire_rad=\'0.20519999999999999cm\'', ID=13366)
+		Map(V='dipole_length=\'16.476299999999998cm\' port_gap=\'0.20250000000000004cm\' wire_rad=\'0.23150000000000001cm\'', ID=5185)
+		Map(V='dipole_length=\'16.4938cm\' port_gap=\'0.20799999999999999cm\' wire_rad=\'0.1671cm\'', ID=14095)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=95, Ver=30, Dir='DV95_V30.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=0
+	$begin 'NextAssemVersionID'
+		NextUniqueID=1
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=0
+			VIDMap('dipole_length=\'14.99cm\' port_gap=\'0.25cm\' wire_rad=\'0.25cm\'', 101)
+			DM(VID=101, Ver=0, Dir='NDV101_V0.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=95, Ver=30, Dir='DV95_MI0_V30.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=0
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=13, Instance=\'SetupDefinition\', Solution=-1, VersionID=30)'='SolutionBlock6'
+	'SolutionKey(SimSetup=13, Instance=\'SolutionDefinition\', Solution=14, VersionID=32)'='SolutionBlock2'
+	'SolutionKey(SimSetup=13, Instance=\'SolutionDefinition\', Solution=15, VersionID=32)'='SolutionBlock3'
+	'SolutionKey(SimSetup=13, Instance=\'SolutionDefinition\', Solution=21, VersionID=137)'='SolutionBlock8'
+$end 'BlockMapName'
+$begin 'SolutionBlock2'
+	SolutionName='AdaptivePass'
+	SolutionID=14
+	V=32
+	$begin 'States'
+		F(VID=95, Ver=32)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(900000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=1
+			M(VID=95, Ver=32, File='DV95_SOL14_M1_V32.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			M(VID=95, Ver=32, File='DV95_SOL14_M2_V32.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			M(VID=95, Ver=32, File='DV95_SOL14_M3_V32.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			M(VID=95, Ver=32, File='DV95_SOL14_M4_V32.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			M(VID=95, Ver=32, File='DV95_SOL14_M5_V32.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			M(VID=95, Ver=32, File='DV95_SOL14_M6_V32.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock2'
+$begin 'SolutionBlock3'
+	SolutionName='LastAdaptive'
+	SolutionID=15
+	V=32
+	$begin 'States'
+		F(VID=95, Ver=32)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(900000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=95, Ver=32, File='DV95_SOL15_M0_V32.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(106, 900000000)
+		$begin 'DataMap'
+			VID=95
+			Ver=32
+			F(DblID=106, Dir='DV95_S15_V32_F106/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock3'
+$begin 'SolutionBlock8'
+	SolutionName='SParam_Sweep'
+	SolutionID=21
+	V=137
+	$begin 'States'
+		F(VID=95, Ver=137)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(450000000, 452250000, 454500000, 456750000, 459000000, 461250000, 463500000, 465750000, 468000000, 470250000, 472500000, 474750000, 477000000, 479250000, 481500000, 483750000, 486000000, 488250000, 490500000, 492750000, 495000000, 497250000, 499500000, 501750000, 504000000, 506250000, 508500000, 510750000, 513000000, 515250000, 517500000, 519750000, 522000000, 524250000, 526500000, 528750000, 531000000, 533250000, 535500000, 537750000, 540000000, 542250000, 544500000, 546750000, 549000000, 551250000, 553500000, 555750000, 558000000, 560250000, 562500000, 564750000, 567000000, 569250000, 571500000, 573750000, 576000000, 578250000, 580500000, 582750000, 585000000, 587250000, 589500000, 591750000, 594000000, 596250000, 598500000, 600750000, 603000000, 605250000, 607500000, 609750000, 612000000, 614250000, 616500000, 618750000, 621000000, 623250000, 625500000, 627750000, 630000000, 632250000, 634500000, 636750000, 639000000, 641250000, 643500000, 645750000, 648000000, 650250000, 652500000, 654750000, 657000000, 659250000, 661500000, 663750000, 666000000, 668250000, 670500000, 672750000, 675000000, 677250000, 679500000, 681750000, 684000000, 686250000, 688500000, 690750000, 693000000, 695250000, 697500000, 699750000, 702000000, 704250000, 706500000, 708750000, 711000000, 713250000, 715500000, 717750000, 720000000, 722250000, 724500000, 726750000, 729000000, 731250000, 733500000, 735750000, 738000000, 740250000, 742500000, 744750000, 747000000, 749250000, 751500000, 753750000, 756000000, 758250000, 760500000, 762750000, 765000000, 767250000, 769500000, 771750000, 774000000, 776250000, 778500000, 780750000, 783000000, 785250000, 787500000, 789750000, 792000000, 794250000, 796500000, 798750000, 801000000, 803250000, 805500000, 807750000, 810000000, 812250000, 814500000, 816750000, 819000000, 821250000, 823500000, 825750000, 828000000, 830250000, 832500000, 834750000, 837000000, 839250000, 841500000, 843750000, 846000000, 848250000, 850500000, 852750000, 855000000, 857250000, 859500000, 861750000, 864000000, 866250000, 868500000, 870750000, 873000000, 875250000, 877500000, 879750000, 882000000, 884250000, 886500000, 888750000, 891000000, 893250000, 895500000, 897750000, 900000000, 902250000, 904500000, 906750000, 909000000, 911250000, 913500000, 915750000, 918000000, 920250000, 922500000, 924750000, 927000000, 929250000, 931500000, 933750000, 936000000, 938250000, 940500000, 942750000, 945000000, 947250000, 949500000, 951750000, 954000000, 956250000, 958500000, 960750000, 963000000, 965250000, 967500000, 969750000, 972000000, 974250000, 976500000, 978750000, 981000000, 983250000, 985500000, 987750000, 990000000, 992250000, 994500000, 996750000, 999000000, 1001250000, 1003500000, 1005750000, 1008000000, 1010250000, 1012500000, 1014750000, 1017000000, 1019250000, 1021500000, 1023750000, 1026000000, 1028250000, 1030500000, 1032750000, 1035000000, 1037250000, 1039500000, 1041750000, 1044000000, 1046250000, 1048500000, 1050750000, 1053000000, 1055250000, 1057500000, 1059750000, 1062000000, 1064250000, 1066500000, 1068750000, 1071000000, 1073250000, 1075500000, 1077750000, 1080000000, 1082250000, 1084500000, 1086750000, 1089000000, 1091250000, 1093500000, 1095750000, 1098000000, 1100250000, 1102500000, 1104750000, 1107000000, 1109250000, 1111500000, 1113750000, 1116000000, 1118250000, 1120500000, 1122750000, 1125000000, 1127250000, 1129500000, 1131750000, 1134000000, 1136250000, 1138500000, 1140750000, 1143000000, 1145250000, 1147500000, 1149750000, 1152000000, 1154250000, 1156500000, 1158750000, 1161000000, 1163250000, 1165500000, 1167750000, 1170000000, 1172250000, 1174500000, 1176750000, 1179000000, 1181250000, 1183500000, 1185750000, 1188000000, 1190250000, 1192500000, 1194750000, 1197000000, 1199250000, 1201500000, 1203750000, 1206000000, 1208250000, 1210500000, 1212750000, 1215000000, 1217250000, 1219500000, 1221750000, 1224000000, 1226250000, 1228500000, 1230750000, 1233000000, 1235250000, 1237500000, 1239750000, 1242000000, 1244250000, 1246500000, 1248750000, 1251000000, 1253250000, 1255500000, 1257750000, 1260000000, 1262250000, 1264500000, 1266750000, 1269000000, 1271250000, 1273500000, 1275750000, 1278000000, 1280250000, 1282500000, 1284750000, 1287000000, 1289250000, 1291500000, 1293750000, 1296000000, 1298250000, 1300500000, 1302750000, 1305000000, 1307250000, 1309500000, 1311750000, 1314000000, 1316250000, 1318500000, 1320750000, 1323000000, 1325250000, 1327500000, 1329750000, 1332000000, 1334250000, 1336500000, 1338750000, 1341000000, 1343250000, 1345500000, 1347750000, 1350000000)
+		SolutionType=4
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=95, Ver=137, File='DV95_SOL21_M0_V137.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(175, 900000000, 241, 450000000, 244, 452250000, 245, 454500000, 246, 456750000, 247, 459000000, 249, 461250000, 250, 463500000, 251, 465750000, 252, 468000000, 253, 470250000, 254, 472500000, 255, 474750000, 256, 477000000, 257, 479250000, 258, 481500000, 259, 483750000, 260, 486000000, 261, 488250000, 262, 490500000, 263, 492750000, 264, 495000000, 265, 497250000, 266, 499500000, 267, 501750000, 268, 504000000, 269, 506250000, 270, 508499999.9999999, 271, 510750000.0000001, 272, 513000000, 273, 515250000, 274, 517499999.9999999, 275, 519750000.0000001, 276, 522000000, 277, 524250000, 278, 526499999.9999999, 279, 528750000.0000001, 280, 531000000, 281, 533250000, 282, 535500000, 283, 537750000, 284, 540000000, 285, 542250000, 286, 544500000, 287, 546750000, 288, 549000000, 289, 551250000, 290, 553500000, 291, 555750000, 292, 558000000, 293, 560250000, 294, 562500000, 295, 564750000, 296, 567000000, 297, 569250000, 298, 571500000, 299, 573750000, 300, 576000000, 301, 578250000, 302, 580500000, 303, 582750000, 304, 585000000, 305, 587250000, 306, 589500000, 307, 591750000, 308, 594000000, 309, 596250000, 310, 598500000, 311, 600750000, 312, 603000000, 313, 605250000, 314, 607500000, 315, 609750000, 316, 612000000, 317, 614250000, 318, 616500000, 319, 618750000, 320, 621000000, 321, 623250000, 322, 625500000, 323, 627750000, 324, 630000000, 325, 632250000, 326, 634500000, 327, 636750000, 328, 639000000, 329, 641250000, 330, 643500000, 331, 645750000, 332, 648000000, 333, 650250000, 334, 652500000, 335, 654750000, 336, 657000000, 337, 659250000, 338, 661500000, 339, 663750000, 340, 666000000, 341, 668250000, 342, 670500000, 343, 672750000, 344, 675000000, 345, 677250000, 346, 679500000, 347, 681750000, 348, 684000000, 349, 686250000, 350, 688500000, 351, 690750000, 352, 693000000, 353, 695250000, 354, 697500000, 355, 699750000, 356, 702000000, 357, 704250000, 358, 706500000, 359, 708750000, 360, 711000000, 361, 713250000, 362, 715500000, 363, 717750000, 364, 720000000, 365, 722250000, 366, 724500000, 367, 726750000, 368, 729000000, 369, 731250000, 370, 733500000, 371, 735750000, 372, 738000000, 373, 740250000, 374, 742500000, 375, 744750000, 376, 747000000, 377, 749250000, 378, 751500000, 379, 753750000, 380, 756000000, 381, 758250000, 382, 760500000, 383, 762750000, 384, 765000000, 385, 767250000, 386, 769500000, 387, 771750000, 388, 774000000, 389, 776250000, 390, 778500000, 391, 780750000, 392, 783000000, 393, 785250000, 394, 787500000, 395, 789750000, 396, 792000000, 397, 794250000, 398, 796500000, 399, 798750000, 400, 801000000, 401, 803250000, 402, 805500000, 403, 807750000, 404, 810000000, 405, 812250000, 406, 814500000, 407, 816750000, 408, 819000000, 409, 821250000, 410, 823500000, 411, 825750000, 412, 828000000, 413, 830250000, 414, 832500000, 415, 834750000, 416, 837000000, 417, 839250000, 418, 841500000, 419, 843750000, 420, 846000000, 421, 848250000, 422, 850500000, 423, 852750000, 424, 855000000, 425, 857250000, 426, 859500000, 427, 861750000, 428, 864000000, 429, 866250000, 430, 868500000, 431, 870750000, 432, 873000000, 433, 875250000, 434, 877500000, 435, 879750000, 436, 882000000, 437, 884250000, 438, 886500000, 439, 888750000, 440, 891000000, 441, 893250000, 442, 895500000)
+		$begin 'DataMap'
+			VID=95
+			Ver=137
+			F(DblID=175, Dir='DV95_S21_V137_F175/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock8'
+$begin 'SolutionBlock6'
+	SimSetupID=13
+	SimSetupName='ATK_Solution'
+	VersionID=30
+	$begin 'EmConvergenceData'
+		EmConv(VID=95, Ver=30, EmConv='DV95_S13_V30.EMConvData')
+	$end 'EmConvergenceData'
+	IsImported=false
+	IsTable=false
+	SolveSetupID=0
+	$begin 'CurrMeshes'
+		M(VID=95, Ver=30, Dir='DV95_S13_V30.cmesh/')
+	$end 'CurrMeshes'
+	MeshAssemVersionID=0
+	$begin 'NextAssemVersionID'
+		NextUniqueID=1
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'ADP'
+		$begin 'SubData'
+			ID=0
+			ADP(VID=95, Ver=30, Dir='DV95_S13_ADP0_V30.sd/')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=1
+			ADP(VID=95, Ver=30, Dir='DV95_S13_ADP1_V30.sd/')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			ADP(VID=95, Ver=30, Dir='DV95_S13_ADP2_V30.sd/')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			ADP(VID=95, Ver=30, Dir='DV95_S13_ADP3_V30.sd/')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			ADP(VID=95, Ver=30, Dir='DV95_S13_ADP4_V30.sd/')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			ADP(VID=95, Ver=30, Dir='DV95_S13_ADP5_V30.sd/')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			ADP(VID=95, Ver=30, Dir='DV95_S13_ADP6_V30.sd/')
+		$end 'SubData'
+	$end 'ADP'
+	$begin 'SU'
+		$begin 'SubData'
+			ID=1
+			SU(VID=95, Ver=30, File='DV95_S13_SD1_V30.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			SU(VID=95, Ver=30, File='DV95_S13_SD2_V30.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			SU(VID=95, Ver=30, File='DV95_S13_SD3_V30.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			SU(VID=95, Ver=30, File='DV95_S13_SD4_V30.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			SU(VID=95, Ver=30, File='DV95_S13_SD5_V30.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			SU(VID=95, Ver=30, File='DV95_S13_SD6_V30.su')
+		$end 'SubData'
+	$end 'SU'
+	$begin 'WaveAdapt'
+		WA(VID=95, Ver=30, A=1)
+	$end 'WaveAdapt'
+	$begin 'LastPassNumbers'
+		LP(VID=95, Ver=30, P=6)
+	$end 'LastPassNumbers'
+	$begin 'Profiles'
+		P(VID=95, Ver=30, File='DV95_S13_V30.profile')
+	$end 'Profiles'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=95, Ver=30, Dir='DV95_S13_MI0_V30.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock6'
+$begin '$index$'
+	$begin '$index$'
+		BlockMapName(pos=31476, lin=290, lvl=0)
+		SolutionBlock2(pos=31965, lin=297, lvl=0)
+		SolutionBlock3(pos=32926, lin=342, lvl=0)
+		SolutionBlock8(pos=33574, lin=375, lvl=0)
+		SolutionBlock6(pos=42015, lin=408, lvl=0)
+		SolutionBlock1(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=44114, lin=498, lvl=0)
+	$end '$index$'
+$end '$index$'

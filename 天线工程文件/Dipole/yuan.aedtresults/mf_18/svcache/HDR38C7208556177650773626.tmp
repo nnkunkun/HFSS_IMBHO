@@ -1,0 +1,42 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=1
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='St(port1_T1,port1_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=18
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=14
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=15
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=21
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=1
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=101
+						$begin 'MinorVVMap'
+							MajorVariation='dipole_length=\'14.960000000000001cm\' port_gap=\'0.28599999999999998cm\' wire_rad=\'0.221cm\''
+							MinorCacheFile='min41AC208556177650843383.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

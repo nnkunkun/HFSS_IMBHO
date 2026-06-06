@@ -1,0 +1,8 @@
+$begin 'CacheDataVersion'
+	DataVersion=2
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	dipole_length='14.96cm'
+	wire_rad='0.221cm'
+	port_gap='0.286cm'
+$end 'VariableValues'
