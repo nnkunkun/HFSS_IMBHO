@@ -1,0 +1,68 @@
+$begin date_time_stamp
+	timesinceepock:1776513074
+$end date_time_stamp
+$begin sysinfo
+	os:win
+	cpuid:'13th Gen Intel(R) Core(TM) i9-13900HX'
+	cpumodel:NA
+	cpubrand:intel
+	cpuPhyCores:24
+	cpuLogCores:32
+	cpufreqkhz:0
+	cpucachelinesize:64
+	cpuestllcmb:36
+	cpuestgflops:787.2
+	cpuestbwkbps:89.6
+	numnumanodes:1
+	virtualmemkb:1.37439e+11
+	pagesizekb:4096
+$end sysinfo
+$begin matsolver
+	$begin matsolverinfo
+		solvertype:shared_memory
+		solverprecision:double
+		solversymmetry:complex_symm
+		matrixdim:55401
+		matrixbw:20.8735
+		matrixnnz:1156413
+		rootdim:721
+		mathlib:mkl
+		nummpitasks:1
+		numthreadpermpitasks:0
+	$end matsolverinfo
+	$begin matsolveranalysis
+		analysysstatus:valid
+		numsupernodes:4845
+		factornnz:12281317
+		factorestflops:11081817972
+		fbsestflops:41881904
+		rootfactestflops:124939005
+		rootfbsestflops:259920
+		analysistimesec:0.234225
+		analysismemkb:33824
+	$end matsolveranalysis
+	$begin matsolverfact
+		fatorizationstatus:valid
+		factorizationnumcores:4
+		factorizationtimesec:0.304809
+		factorizationmentotalkb:271547
+	$end matsolverfact
+	$begin matsolverfbs
+		fbstatus:valid
+		fbstype:fullsolve
+		fbsmt:false
+		fbsmrhs:false
+		fbsnumcores:4
+		fbsnumsolves:1
+		fbsavgsolvetime1solvesec:0.019681
+		fbscputimesec:0.019681
+		fbsmemorytotalkb:252244
+	$end matsolverfbs
+	$begin matsolverprofile
+		maxmemkb:271547
+		diskkb:0
+		totalrealtimesec:-1
+		totalcputimesec:-1
+		totaltimesec:-1
+	$end matsolverprofile
+$end matsolver
